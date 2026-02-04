@@ -33,7 +33,7 @@ The core objective of this challenge is operational safety. This solution implem
 
 1.  **Clone the repository:**
     
-    git clone [https://github.com/YOUR_USER/dynamic-ip-waf-manager.git](https://github.com/franca2000/dynamic-ip-waf-manager.git)
+    git clone [https://github.com/franca2000/dynamic-ip-waf-manager.git](https://github.com/franca2000/dynamic-ip-waf-manager.git)
     cd dynamic-ip-waf-manager
     
 
